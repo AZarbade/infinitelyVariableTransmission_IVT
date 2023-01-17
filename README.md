@@ -12,14 +12,15 @@ by [Alexander Kernbaum](https://www.linkedin.com/in/alexander-kernbaum-9997a628/
 
 ---
 
-## 🛠 Current Implimentation
+## 🛠 Current Progress
 
-- **[TITLE](LINK)** - TEXT HERE
+- **CAD Model** - CAD model for the concept is done. Gear ratio ranges from 5:1 to 20:1.
 
 ---
 
 ## 💪 To - Do
 
-- **[TITLE](LINK)** - TEXT HERE
+- 3D print the final assembly
+- Use ROS to enable control over the hardware
 
 ---
