@@ -23,7 +23,8 @@ by [Alexander Kernbaum](https://www.linkedin.com/in/alexander-kernbaum-9997a628/
 
 ## 💪 To - Do
 
-- 3D print the final assembly
-- Use ROS to enable control over the hardware
+- [ ] 3D print the final assembly
+- [ ] Use ROS to enable control over the hardware
+- [ ] Create proper documentation for ROS Control
 
 ---
