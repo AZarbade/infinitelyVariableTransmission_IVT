@@ -16,6 +16,9 @@ by [Alexander Kernbaum](https://www.linkedin.com/in/alexander-kernbaum-9997a628/
 
 - **CAD Model** - CAD model for the concept is done. Gear ratio ranges from 5:1 to 20:1.
 
+![Isomeric view of IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_full.png)
+![Cross section view of IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_cross-section.png)
+
 ---
 
 ## 💪 To - Do
