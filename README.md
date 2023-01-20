@@ -1,26 +1,26 @@
-# IVT: Infinitely Variable Transmission
-------------------------------------------------------------------------
+# WIP
+<h1 align="center">IVT: Infinitely Variable Transmission</h1>
+<h3 align="center">Miniaturizing Continuous Variable Transmission for Robotics applications</h3>
 
-### **README IS WIP**
-
-## TL;DR
-
-__*Miniaturizing Continuous Variable Transmission used in vehicles to
-be applied in Robotics applications. To achieve precision of high gearing while keeping speed of low gearing. \
-Aim: Precise control with enhanced speed.*__ \
-Mostly inspired from [Inception Drive](https://spectrum.ieee.org/inception-drive-a-compact-infinitely-variable-transmission-for-robotics)
+---
+## About This Project
+- 👓 Miniaturizing Continuous Variable Transmission used in vehicles to be applied in Robotics applications
+- 🔭 To achieve precision of high gearing while keeping speed of low gearing
+- 🔮 Precise control with enhanced speed. 
+- 🌱 Mostly inspired from [Inception Drive](https://spectrum.ieee.org/inception-drive-a-compact-infinitely-variable-transmission-for-robotics)
 by [Alexander Kernbaum](https://www.linkedin.com/in/alexander-kernbaum-9997a628/)
 
+---
 
-## Introduction
+## 🛠 Current Progress
 
-1. -
+- **CAD Model** - CAD model for the concept is done. Gear ratio ranges from 5:1 to 20:1.
 
+---
 
-## Project Overview
-The main components of the project are as follows. The other files are utilities.
-1) -
-2) -
-3) -
-4) -
-5) -
+## 💪 To - Do
+
+- 3D print the final assembly
+- Use ROS to enable control over the hardware
+
+---
