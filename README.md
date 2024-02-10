@@ -1,4 +1,3 @@
-# WIP
 <h1 align="center">IVT: Infinitely Variable Transmission</h1>
 <h3 align="center">Miniaturizing Continuous Variable Transmission for Robotics applications</h3>
 
@@ -23,8 +22,6 @@ by [Alexander Kernbaum](https://www.linkedin.com/in/alexander-kernbaum-9997a628/
 
 ## 💪 To - Do
 
-- [ ] 3D print the final assembly
-- [ ] Use ROS to enable control over the hardware
-- [ ] Create proper documentation for ROS Control
+- [x] 3D print the final assembly
 
 ---
