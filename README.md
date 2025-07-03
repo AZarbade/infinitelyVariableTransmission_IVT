@@ -14,9 +14,13 @@ This project aims to develop a variable ratio gearset.
 
 ## 🛠 Current Progress
 
-- **CAD Model** - CAD model for the concept is done. Gear ratio ranges from 5:1 to 20:1.
+- **[CAD Model](https://cad.onshape.com/documents/5f999c7c9c3bc4c305739548/w/4ed21d8db21b28fc1a7b53b3/e/5d1cf913af19c687eb571340?renderMode=0&uiState=6866a333954afc30e5d09e12)** - CAD model for the concept.
 
-![Isomeric view of IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_full.png)
-![Cross section view of IVT](https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_cross-section.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_iso.png?raw=true" alt="Isometric View" width="400"/></td>
+    <td><img src="https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_cross-section.png?raw=true" alt="Cross-section View" width="400"/></td>
+  </tr>
+</table>
 
 ---
