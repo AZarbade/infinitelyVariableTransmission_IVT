@@ -18,7 +18,7 @@ This project aims to develop a variable ratio gearset.
 
 <table>
   <tr>
-    <td><img src="https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_iso.png?raw=true" width="400"/></td>
+    <td><img src="https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_cross_section.png?raw=true" width="400"/></td>
     <td><img src="https://github.com/AZarbade/infinitelyVariableTransmission_IVT/blob/master/references/images/ivt_full.png?raw=true" width="400"/></td>
   </tr>
 </table>
